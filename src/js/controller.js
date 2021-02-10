@@ -124,7 +124,7 @@ const controlUploadRecipe = async function (newRecipe) {
 };
 
 const newFeature = function(){
-  console.log("Welcome to the app");
+  console.log("Welcome to the app again");
 }
 
 const init = function () {
